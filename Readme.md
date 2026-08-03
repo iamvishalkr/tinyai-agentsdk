@@ -34,7 +34,7 @@ We are constantly improving the SDK. Future capabilities will include:
 
 ## Documentation
 
-For full guides, setup instructions, and code recipes, check out the [Full Documentation Guide (docs.md)](/docs.md).
+For full guides, setup instructions, and code recipes, check out the [Full Documentation Guide (docs.md)](https://github.com/iamvishalkr/tinyai-agentsdk/blob/main/docs.md).
 
 ### Quick Install
 

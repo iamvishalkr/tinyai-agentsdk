@@ -1,7 +1,15 @@
 {
   "name": "tinyai-agentsdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small AI agent SDK",
+  "homepage": "https://github.com/iamvishalkr/tinyai-agentsdk#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamvishalkr/tinyai-agentsdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamvishalkr/tinyai-agentsdk/issues"
+  },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
@@ -23,7 +31,7 @@
     "agent",
     "sdk"
   ],
-  "author": "",
+  "author": "iamvishalkr",
   "license": "ISC",
   "devEngines": {
     "packageManager": {
